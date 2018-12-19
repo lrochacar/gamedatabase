@@ -7,7 +7,7 @@
     "specialtyChangeName": "",
     "selfSkillBarName": "",
     "background": [
-        "fiercely proud and unreserved, Challenger Dominiel has little morality or sense of empathy. While constantly causing trouble, she refuses to admit her faults."
+        "Fiercely proud and unreserved, Challenger Dominiel has little morality or sense of empathy. While constantly causing trouble, she refuses to admit her faults."
     ],
     "relations": [
         { "hero": "dingo", "relationType": "rival" },
@@ -53,9 +53,9 @@
             "enhancement": [
                 { "description": "+5% damage dealt", "resources": [{ "item": "gold", "qty": 4000 } , { "item": "molagora", "qty": 1 }] },
                 { "description": "+5% effect chance", "resources": [{ "item": "gold", "qty": 8000 } , { "item": "molagora", "qty": 2}] },
-                { "description": "+10% damage dealt", "resources": [{ "item": "gold", "qty": 17000 } , { "item": "sharp spearhead", "qty": 1} , { "item": "molagora", "qty": 3 }] },
-                { "description": "+10% effect chance", "resources": [{ "item": "gold", "qty": 35000 } , { "item": "sharp spearhead", "qty": 3} , { "item": "molagorago", "qty": 1 }] },
-                { "description": "+15% damage dealt", "resources": [{ "item": "gold", "qty": 100000 } , { "item": "black powder curse", "qty": 2} , { "item": "molagorago", "qty": 2 }] }
+                { "description": "+10% damage dealt", "resources": [{ "item": "gold", "qty": 17000 } , { "item": "sharp-spearhead", "qty": 1} , { "item": "molagora", "qty": 3 }] },
+                { "description": "+10% effect chance", "resources": [{ "item": "gold", "qty": 35000 } , { "item": "sharp-spearhead", "qty": 3} , { "item": "molagorago", "qty": 1 }] },
+                { "description": "+15% damage dealt", "resources": [{ "item": "gold", "qty": 100000 } , { "item": "black-powder-curse", "qty": 2} , { "item": "molagorago", "qty": 2 }] }
             ],
             "buffs": [],
             "debuffs": []
@@ -72,9 +72,9 @@
             "enhancement": [
                 { "description": "+5% additional damage", "resources": [{ "item": "gold", "qty": 4000 } , { "item": "molagora", "qty": 1 }] },
                 { "description": "+5% additional damage", "resources": [{ "item": "gold", "qty": 8000 } , { "item": "molagora", "qty": 2}] },
-                { "description": "+5% additional damage", "resources": [{ "item": "gold", "qty": 17000 } , { "item": "sharp spearhead", "qty": 1} , { "item": "molagora", "qty": 3 }] },
-                { "description": "+5% additional damage", "resources": [{ "item": "gold", "qty": 35000 } , { "item": "sharp spearhead", "qty": 3} , { "item": "molagorago", "qty": 1 }] },
-                { "description": "+10% additional damage", "resources": [{ "item": "gold", "qty": 100000 } , { "item": "black powder curse", "qty": 2} , { "item": "molagorago", "qty": 2 }] }
+                { "description": "+5% additional damage", "resources": [{ "item": "gold", "qty": 17000 } , { "item": "sharp-spearhead", "qty": 1} , { "item": "molagora", "qty": 3 }] },
+                { "description": "+5% additional damage", "resources": [{ "item": "gold", "qty": 35000 } , { "item": "sharp-spearhead", "qty": 3} , { "item": "molagorago", "qty": 1 }] },
+                { "description": "+10% additional damage", "resources": [{ "item": "gold", "qty": 100000 } , { "item": "black-powder-curse", "qty": 2} , { "item": "molagorago", "qty": 2 }] }
             ],
             "buffs": [],
             "debuffs": []
@@ -91,9 +91,9 @@
             "enhancement": [
                 { "description": "+2% Combat Readiness", "resources": [{ "item": "gold", "qty": 4000 } , { "item": "molagora", "qty": 1 }] },
                 { "description": "+2% Combat Readiness", "resources": [{ "item": "gold", "qty": 8000 } , { "item": "molagora", "qty": 2}] },
-                { "description": "-1 turn cooldown", "resources": [{ "item": "gold", "qty": 17000 } , { "item": "sharp spearhead", "qty": 1} , { "item": "molagora", "qty": 3 }] },
-                { "description": "+3% Combat Readiness", "resources": [{ "item": "gold", "qty": 35000 } , { "item": "sharp spearhead", "qty": 3} , { "item": "molagorago", "qty": 1 }] },
-                { "description": "+3% Combat Readiness", "resources": [{ "item": "gold", "qty": 100000 } , { "item": "black powder curse", "qty": 2} , { "item": "molagorago", "qty": 2 }] }
+                { "description": "-1 turn cooldown", "resources": [{ "item": "gold", "qty": 17000 } , { "item": "sharp-spearhead", "qty": 1} , { "item": "molagora", "qty": 3 }] },
+                { "description": "+3% Combat Readiness", "resources": [{ "item": "gold", "qty": 35000 } , { "item": "sharp-spearhead", "qty": 3} , { "item": "molagorago", "qty": 1 }] },
+                { "description": "+3% Combat Readiness", "resources": [{ "item": "gold", "qty": 100000 } , { "item": "black-powder-curse", "qty": 2} , { "item": "molagorago", "qty": 2 }] }
             ],
             "buffs": ["stic_cri_up"],
             "debuffs": []
